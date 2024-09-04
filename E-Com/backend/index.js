@@ -13,7 +13,7 @@ app.use(cors());
 
 // Database Connection with MongoDB
 mongoose.connect(
-  "mongodb+srv://anmol:anmol@cluster0.e4zgkuu.mongodb.net/e-commerce"
+  // mongodb url ""
 );
 
 // API Creation
